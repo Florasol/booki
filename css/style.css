@@ -177,6 +177,10 @@ h2 {
     margin: 15px 6px;
 }
 
+.filtre:hover {
+    background-color: #DEEBFF;
+}
+
 .fa-money-bill-wave, 
 .fa-person, .fa-heart, .fa-fire {
     padding-right: 10px;
